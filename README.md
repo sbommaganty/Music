@@ -1,7 +1,7 @@
 ## 
 Welcome to the Music Website!
  
-**Link to the website** : 
+**Link to the website** : https://main.d2e6k9dtyes1d1.amplifyapp.com/
 
 ## Getting Started 🎧
 
