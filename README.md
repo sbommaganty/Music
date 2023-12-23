@@ -1,4 +1,4 @@
-## Welcome to the Music website!
+## Welcome to the Music website 🎵
 
 **Link to the website** : https://main.d2e6k9dtyes1d1.amplifyapp.com/
 
